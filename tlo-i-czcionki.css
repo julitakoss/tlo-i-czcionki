@@ -1,0 +1,30 @@
+.background{
+    background-color: rgb(218, 190, 138);
+}
+h1{
+    background-color: maroon;
+}
+h2{
+    background-color: mediumvioletred;
+}
+.pp1{
+    background-color: orange;
+}
+.pp2{
+background-color: purple;
+}
+.li1{
+background-color: lightgreen;
+}
+.li2{
+background-color: lightpink;
+}
+.li3{
+background-color: lightyellow;
+}
+.li4{
+background-color: lightslategray;
+}
+.li5{
+background-color: lightsteelblue;
+}
